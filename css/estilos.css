@@ -231,7 +231,7 @@ video{
 }
 
 .s-three .egg-container {
-	margin-top: -140px;
+	margin-top: -160px;
 	width: 100%;
 	z-index: 100;
 }
@@ -242,7 +242,7 @@ video{
 }
 
 .s-three .ec-eggline {
-	margin: -385px auto;
+	margin: -408px auto;
 	width: 85%;
 }
 
@@ -626,7 +626,7 @@ footer .f-text {
 	}
 
 	.s-three .ec-eggline {
-		margin: -418px auto;
+		margin: -440px auto;
 	}
 
 	.s-three .sth-background-blur-eggs .sth-eggtwo {
@@ -1127,7 +1127,7 @@ footer .f-text {
 
 	.s-two {
 		min-height: 84vh;
-		margin-top: -14%;
+		margin-top: -18%;
 	}
 
 	.s-two .container {

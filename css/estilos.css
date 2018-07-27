@@ -192,8 +192,7 @@ video{
 /* Section Two */
 
 .s-two {
-	background: url(../images/bg-kikesplus-bannerfirstsection.png) 50% 100% no-repeat;
-	margin-top: -10px;
+	background: url(../images/bg-kikesplus-bannerfirstsection.png) 50% 80% no-repeat;
 }
 
 .s-two .container {
@@ -493,6 +492,10 @@ video{
 
 /* Section Seven (Paso Cinco) */
 
+.s-seven {
+	margin-bottom: 10%;
+}
+
 .s-seven .kikes-box {
 	margin: 30px auto;
 	width: 80%;
@@ -575,7 +578,6 @@ video{
 
 .s-eight {
 	background: url(../images/Bg-KikesPlus-sectioneight.png) 50% 100% no-repeat;
-	margin-top: 50px;
 }
 
 .s-eight h3 {
@@ -585,10 +587,6 @@ video{
 
 .s-eight hr:nth-child(2) {
 	width: 80%;
-}
-
-.s-eight .sei-image {
-	margin-top: -254px;
 }
 
 /* Section Nine (Kikes + --) */
@@ -714,10 +712,6 @@ footer .f-text {
 		margin-top: -558px;
 	}
 
-	.s-eight {
-		margin-top: 80px;
-	}
-
 }
 
 @media (min-width: 490px) {
@@ -754,15 +748,6 @@ footer .f-text {
 
 	.s-six .ssi-image {
 		margin: -550px 0 0;
-	}
-
-	.s-eight {
-		margin-top: 10px;
-		overflow: hidden;
-	}
-
-	.s-eight .sei-image {
-		margin: -248px 0 0;
 	}
 
 }
@@ -803,10 +788,6 @@ footer .f-text {
 		margin-top: -80px;
 	}
 
-	.s-eight .sei-image {
-		margin-top: -282px;
-	}
-
 }
 
 @media (min-width: 740px) { 
@@ -838,10 +819,6 @@ footer .f-text {
 
 	.s-seven a {
 		width: 36%;
-	}
-
-	.s-eight .sei-image {
-		margin-top: -318px;
 	}
 
 }
@@ -1002,11 +979,6 @@ footer .f-text {
 		margin: 10px 29% 12%;
 	}
 
-	.s-eight .sei-image {
-		display: inline-block;
-		margin-top: -549px;
-	}
-
 }
 
 @media (min-width: 1100px) {
@@ -1150,20 +1122,12 @@ footer .f-text {
 		margin-left: 172px;
 	}
 
-	.s-seven {
-		height: 100vh;
-	}
-
 	.s-seven .kikes-box {
 		width: 60%;
 	}
 
 	.s-seven a {
 		width: 28%;
-	}
-
-	.s-eight {
-		margin-top: 10%; 
 	}
 
 	.s-eight .sei-infocontent {
@@ -1187,10 +1151,6 @@ footer .f-text {
 		font-size: 1.6em;
 	}
 
-	.s-two {
-		margin-top: -60px;
-	}
-
 	.s-three {
 		background-position-y: 50%; 
 		height: 100vh;
@@ -1199,6 +1159,10 @@ footer .f-text {
 	.s-three .row {
 		margin-bottom: 6%;
 		margin-top: 6%;
+	}
+
+	.s-four {
+		margin-top: 8%;
 	}
 
 	.s-five .row {
@@ -1212,6 +1176,10 @@ footer .f-text {
 
 	.s-five .sfi-indicator {
 		margin-left: 278px;
+	}
+
+	.s-seven {
+		margin-bottom: 5%;
 	}
 
 	.s-seven .row {
@@ -1234,6 +1202,10 @@ footer .f-text {
 
 	.s-eight p {
 		font-size: 2em;
+	}
+
+	footer p {
+		font-size: 1em;
 	}
 }
 
@@ -1260,8 +1232,8 @@ footer .f-text {
 		margin-top: 0;
 	}
 
-	.s-eight {
-		margin-top: 0;
+	.s-seven {
+		margin-bottom: 3%;
 	}
 
 	.s-nine {
